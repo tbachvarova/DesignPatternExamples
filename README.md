@@ -1,1 +1,1 @@
-# designPatterns
+# DesignPatternExamples in PHP
